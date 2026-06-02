@@ -1,0 +1,55 @@
+                   BASIC BACKEND SETUP 
+
+FINALLAY THE TOTAL BACKEND BASIC PACKAGES INSTALL VIA NPM FOR BASICS
+        npm i express mongoose dotenv
+
+              1:cread main file (index.js)
+              2:create server using express
+              3:connect database(MONGO DB) using mongoose package 
+              4:use dotenv for secrets 
+              5:setup the package.json for project like main setting explain type (MODULE type)
+              6:test and cheak code debug errors
+   Time:5minute arounds
+
+
+
+NEXT PLAN
+
+      CREATE SCHEMA AND ROUTES FOR TODO APP        
+
+              1:create models folder for SCHEMA
+              2:create todoschema file (todo.model.js)
+              3:create schema logic with mongoose 
+              4:creat folder controller ,file(todo.controller.js)
+              5:create folder route ,file (todo.routes.js)
+              6:setup CRUD opreation todos 
+              7:test and cheak code debug errors
+              
+              ***SECRETS ***
+              *{
+               success status 200
+               error status 400
+               file name todo.controller.js 
+               routes name todo.routes.js
+               end point url : http://localhost:3002/todo/createTodo
+               }*
+
+      TIME : 30 to 1 housr making and debugging    
+
+
+             === USER OPRETION === 
+              1:create models file for  USERSCHEMA
+              2:create userschema file (user.model.js)
+              3:create schema logic with mongoose 
+              4:creat file controller (user.controller.js)
+              5:create file route (todo.routes.js)
+              6:test USER OPRETIONS and cheak errors
+
+              %TIME%a
+
+              1:login 40 min to housr
+              2:debuging 1 housr to 2 housr
+              3:TOTALY 2 to 3 hours
+
+
+cheaking and backend logics totaly = 4 hours 20 min
